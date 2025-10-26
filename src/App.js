@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { FiDownload, FiSearch, FiLayers } from "react-icons/fi";
-import socialPostImg from "./assets/Glass_water_Boy.png";
-import socialPostFile from "./assets/Glass_water_Boy.ai";
+import socialPostImg from "./assets/Glass water Boy.png";
+import socialPostFile from "./assets/Glass water Boy.ai";
 import PeopleImg from "./assets/Boy_Drinking_Water_2.png";
 import PeopleFile from "./assets/Boy_Drinking_Water.ai";
 import bannerImg from "./assets/Banner.png";
